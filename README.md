@@ -1,5 +1,5 @@
 # Mafia Family Club
-This is root directroty for all repositories.
+This is root directory for all repositories.
 
 ## How to use
 You should clone this repository and init submodules:
