@@ -1,0 +1,12 @@
+[submodule "server"]
+	path = server
+	url = https://github.com/mafia-family-club/server.git
+[submodule "flyway"]
+	path = flyway
+	url = https://github.com/mafia-family-club/flyway.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/mafia-family-club/frontend.git
+[submodule "platform"]
+	path = platform
+	url = https://github.com/mafia-family-club/platform.git
